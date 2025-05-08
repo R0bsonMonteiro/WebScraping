@@ -4,12 +4,10 @@
 Os códigos criados tem como finalidade extrair informações/dados de páginas da web de maneira automatizada. Dessa forma, eles permitem coletar dados que não estão disponibilizados por meio de APIs, facilitando a análise e o processamento dessas informações para diversos fins, como pesquisas de mercado, monitoramento de preços, análise de tendências e muito mais. Portanto, essa técnica é especialmente útil para obter grandes volumes de dados de forma eficiente, economizando tempo e esforço em comparação com a coleta manual.
 
 ## Detalhes
-Estão disponíveis 3 códigos, os quais são:
- - Código 1
+Estão disponíveis 2 códigos, os quais são:
+ - **Código 1**: tem como objetivo automatizar a extração de uma tabela do site do Banco Central (https://www3.bcb.gov.br/ifdata/) usando o navegador Edge com Selenium.
 
- - Código 2
-
- - Código 3
+ - **Código 2**: tem como objetivo automatizar o download de um arquivo CSV do site do Banco Central (https://www3.bcb.gov.br/ifdata/) usando o navegador Edge com Selenium.
 
 
 ## Tecnologias Utilizadas
